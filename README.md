@@ -1,1 +1,2 @@
-# MeganY
+# 36350
+For Statistical Computing course
